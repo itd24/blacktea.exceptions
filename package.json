@@ -1,6 +1,6 @@
 {
   "name": "blacktea.exceptions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of the most common exceptions",
   "main": "index.js",
   "author": {
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "blacktea",
-    "exceptions",
+    "exceptions"
   ],
   "license": "MIT"
 }
