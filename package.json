@@ -1,0 +1,15 @@
+{
+  "name": "blacktea.exceptions",
+  "version": "0.1.0",
+  "description": "A collection of the most common exceptions",
+  "main": "index.js",
+  "author": {
+    "name": "itd24",
+    "email": "ziga.petek2@gmail.com"
+  },
+  "keywords": [
+    "blacktea",
+    "exceptions",
+  ],
+  "license": "MIT"
+}
